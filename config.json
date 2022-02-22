@@ -10,6 +10,8 @@
 "BellerPrefix": "Beller",
 "DefaultStatus": "1 Bellen!",
 "AutoBelstatus": "Excel",
+"filename": "data.json",
+"configurationfilename": "configuration.json",
 "print_data":{
 	"error001": "Onjuiste gegevens",
 	"error002": "Onjuiste website_url",
