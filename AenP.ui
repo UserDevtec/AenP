@@ -6041,7 +6041,7 @@
    <widget class="QFrame" name="logLoginFrame_9">
     <property name="geometry">
      <rect>
-      <x>80</x>
+      <x>75</x>
       <y>490</y>
       <width>121</width>
       <height>35</height>
@@ -6090,7 +6090,7 @@
    <widget class="QFrame" name="logLoginFrame_10">
     <property name="geometry">
      <rect>
-      <x>45</x>
+      <x>40</x>
       <y>490</y>
       <width>35</width>
       <height>35</height>
@@ -6155,26 +6155,90 @@
      <set>Qt::AlignCenter</set>
     </property>
    </widget>
-   <widget class="QScrollArea" name="scrollArea">
+   <widget class="QFrame" name="logLoginFrame_11">
     <property name="geometry">
      <rect>
-      <x>40</x>
-      <y>50</y>
-      <width>221</width>
-      <height>421</height>
+      <x>75</x>
+      <y>440</y>
+      <width>121</width>
+      <height>35</height>
      </rect>
     </property>
-    <property name="widgetResizable">
-     <bool>true</bool>
+    <property name="cursor">
+     <cursorShape>PointingHandCursor</cursorShape>
     </property>
-    <widget class="QWidget" name="scrollAreaWidgetContents">
+    <property name="frameShape">
+     <enum>QFrame::StyledPanel</enum>
+    </property>
+    <property name="frameShadow">
+     <enum>QFrame::Raised</enum>
+    </property>
+    <widget class="QLabel" name="logLoginTxt_6">
      <property name="geometry">
       <rect>
        <x>0</x>
        <y>0</y>
-       <width>219</width>
-       <height>419</height>
+       <width>121</width>
+       <height>35</height>
       </rect>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>11</pointsize>
+      </font>
+     </property>
+     <property name="cursor">
+      <cursorShape>PointingHandCursor</cursorShape>
+     </property>
+     <property name="contextMenuPolicy">
+      <enum>Qt::DefaultContextMenu</enum>
+     </property>
+     <property name="layoutDirection">
+      <enum>Qt::LeftToRight</enum>
+     </property>
+     <property name="text">
+      <string>Bekijk link</string>
+     </property>
+     <property name="alignment">
+      <set>Qt::AlignCenter</set>
+     </property>
+    </widget>
+   </widget>
+   <widget class="QFrame" name="logLoginFrame_12">
+    <property name="geometry">
+     <rect>
+      <x>40</x>
+      <y>440</y>
+      <width>35</width>
+      <height>35</height>
+     </rect>
+    </property>
+    <property name="cursor">
+     <cursorShape>PointingHandCursor</cursorShape>
+    </property>
+    <property name="frameShape">
+     <enum>QFrame::StyledPanel</enum>
+    </property>
+    <property name="frameShadow">
+     <enum>QFrame::Raised</enum>
+    </property>
+    <widget class="QLabel" name="logLoginIcon_6">
+     <property name="geometry">
+      <rect>
+       <x>0</x>
+       <y>0</y>
+       <width>35</width>
+       <height>35</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <property name="pixmap">
+      <pixmap>:/LoginCredentials/16x16/square.png</pixmap>
+     </property>
+     <property name="alignment">
+      <set>Qt::AlignCenter</set>
      </property>
     </widget>
    </widget>
