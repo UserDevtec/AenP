@@ -6041,8 +6041,8 @@
    <widget class="QFrame" name="logLoginFrame_9">
     <property name="geometry">
      <rect>
-      <x>75</x>
-      <y>490</y>
+      <x>415</x>
+      <y>260</y>
       <width>121</width>
       <height>35</height>
      </rect>
@@ -6090,8 +6090,8 @@
    <widget class="QFrame" name="logLoginFrame_10">
     <property name="geometry">
      <rect>
-      <x>40</x>
-      <y>490</y>
+      <x>380</x>
+      <y>260</y>
       <width>35</width>
       <height>35</height>
      </rect>
@@ -6158,8 +6158,8 @@
    <widget class="QFrame" name="logLoginFrame_11">
     <property name="geometry">
      <rect>
-      <x>75</x>
-      <y>440</y>
+      <x>415</x>
+      <y>190</y>
       <width>121</width>
       <height>35</height>
      </rect>
@@ -6207,8 +6207,8 @@
    <widget class="QFrame" name="logLoginFrame_12">
     <property name="geometry">
      <rect>
-      <x>40</x>
-      <y>440</y>
+      <x>380</x>
+      <y>190</y>
       <width>35</width>
       <height>35</height>
      </rect>
