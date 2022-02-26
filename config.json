@@ -14,7 +14,7 @@
 "filename": "data.json",
 "configurationfilename": "configuration.json",
 "beller_uitleg": "https://drive.google.com/u/0/uc?id=1UcDZHBxyv0rr8zVTC6MpPr8HhHrb73pA&export=download",
-"admin_uitleg": "https://drive.google.com/u/0/uc?id=1PSpDChkJE-3Q88WPLhc_DYd2uSYgQWkz&export=download",	
+"admin_uitleg": "https://drive.google.com/u/0/uc?id=1PSpDChkJE-3Q88WPLhc_DYd2uSYgQWkz&export=download",
 "print_data":{
 	"error001": "Onjuiste gegevens",
 	"error002": "Onjuiste website_url",
@@ -40,5 +40,10 @@
 	"data016": "Klant opgeslagen",
 	"data017": "Verbonden",
 	"box001": "Selecteer gegevens"
+},
+"verkopingList":{
+	"1": "Cypressa",
+	"2": "Oliebollen 2022",
+	"3": "Oliebollen 2023"
 }
 }
