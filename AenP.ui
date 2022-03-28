@@ -2065,7 +2065,7 @@
        <enum>Qt::LeftToRight</enum>
       </property>
       <property name="text">
-       <string>Bewerken</string>
+       <string>Opslaan</string>
       </property>
       <property name="alignment">
        <set>Qt::AlignCenter</set>
@@ -4680,12 +4680,12 @@
      </property>
     </widget>
    </widget>
-   <zorder>BelLijstFrame</zorder>
-   <zorder>toevoegenFrame</zorder>
-   <zorder>bewerkenFrame</zorder>
    <zorder>AdminFrame</zorder>
    <zorder>bestelLijstFrame</zorder>
    <zorder>OverigeLijstenFrame</zorder>
+   <zorder>BelLijstFrame</zorder>
+   <zorder>toevoegenFrame</zorder>
+   <zorder>bewerkenFrame</zorder>
    <zorder>genFrame</zorder>
    <zorder>genFrame_2</zorder>
    <zorder>genFrame_3</zorder>
@@ -6259,10 +6259,10 @@
     <enum>QFrame::Raised</enum>
    </property>
   </widget>
-  <zorder>loginFrame</zorder>
-  <zorder>generalFrame</zorder>
   <zorder>settingsFrame</zorder>
   <zorder>extraFrame</zorder>
+  <zorder>loginFrame</zorder>
+  <zorder>generalFrame</zorder>
   <zorder>frame</zorder>
   <zorder>checkw</zorder>
  </widget>
