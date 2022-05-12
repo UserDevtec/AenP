@@ -4184,7 +4184,7 @@
     </widget>
     <widget class="QListWidget" name="listWidget_5">
      <property name="enabled">
-      <bool>false</bool>
+      <bool>true</bool>
      </property>
      <property name="geometry">
       <rect>
@@ -4680,12 +4680,12 @@
      </property>
     </widget>
    </widget>
-   <zorder>AdminFrame</zorder>
-   <zorder>bestelLijstFrame</zorder>
-   <zorder>OverigeLijstenFrame</zorder>
    <zorder>BelLijstFrame</zorder>
    <zorder>toevoegenFrame</zorder>
    <zorder>bewerkenFrame</zorder>
+   <zorder>AdminFrame</zorder>
+   <zorder>bestelLijstFrame</zorder>
+   <zorder>OverigeLijstenFrame</zorder>
    <zorder>genFrame</zorder>
    <zorder>genFrame_2</zorder>
    <zorder>genFrame_3</zorder>
@@ -6346,10 +6346,10 @@
     <enum>QFrame::Raised</enum>
    </property>
   </widget>
+  <zorder>settingsFrame</zorder>
   <zorder>extraFrame</zorder>
   <zorder>loginFrame</zorder>
   <zorder>generalFrame</zorder>
-  <zorder>settingsFrame</zorder>
   <zorder>frame</zorder>
   <zorder>checkw</zorder>
  </widget>
