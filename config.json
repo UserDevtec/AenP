@@ -6,7 +6,7 @@
 "version": "1.0.2",
 "update": "no",
 "update_link": "",
-"admin_app": "Peter",
+"admin_app": "Admin",
 "DefaultPayment": "Contant",
 "DefaultPayed": "Nee",
 "BellerPrefix": "Beller",
