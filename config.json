@@ -12,8 +12,6 @@
 "BellerPrefix": "Beller",
 "DefaultStatus": "1 Bellen!",
 "AutoBelstatus": "Excel",
-"filename": "data.json",
-"configurationfilename": "configuration.json",
 "beller_uitleg": "https://drive.google.com/u/0/uc?id=1UcDZHBxyv0rr8zVTC6MpPr8HhHrb73pA&export=download",
 "admin_uitleg": "https://drive.google.com/u/0/uc?id=1PSpDChkJE-3Q88WPLhc_DYd2uSYgQWkz&export=download",
 "verkopingList":{
