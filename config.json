@@ -1,9 +1,9 @@
 {
 "dev_website": "https://www.devtec.nl",
-"aantal_bellers": 12,
 "app_name": "AenP",
 "app_credits": "App gemaakt door: Devtec",
 "version": "1.0.2",
+"version_23_04": "2.23.0",
 "update": "no",
 "update_link": "",
 "admin_app": "Admin",
@@ -12,7 +12,6 @@
 "BellerPrefix": "Beller",
 "DefaultStatus": "1 Bellen",
 "DefaultNewsLetter": "Nee",
-"AutoBelstatus": "Excel",
 "beller_uitleg": "https://drive.google.com/u/0/uc?id=1UcDZHBxyv0rr8zVTC6MpPr8HhHrb73pA&export=download",
 "admin_uitleg": "https://drive.google.com/u/0/uc?id=1PSpDChkJE-3Q88WPLhc_DYd2uSYgQWkz&export=download",
 "verkopingList":{
